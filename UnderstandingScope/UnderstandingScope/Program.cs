@@ -15,6 +15,7 @@ namespace UnderstandingScope
             // courtesy of Bob Tabor, I'll re-do one of his oh-so-good lessons from yonder year
             // just so I've got some code that I can blame on someone else
             // (like I'm trying to make myself out to be some kind of professional or something.... SHYAH!)
+            // comment added from Git site
 
 
             string j = String.Empty;
